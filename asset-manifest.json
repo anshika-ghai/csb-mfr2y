@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://anshika-ghai.github.io/csb-mfr2y/static/css/main.eed3dfe1.chunk.css",
+    "main.js": "https://anshika-ghai.github.io/csb-mfr2y/static/js/main.3b55b739.chunk.js",
+    "main.js.map": "https://anshika-ghai.github.io/csb-mfr2y/static/js/main.3b55b739.chunk.js.map",
+    "runtime-main.js": "https://anshika-ghai.github.io/csb-mfr2y/static/js/runtime-main.8641a22e.js",
+    "runtime-main.js.map": "https://anshika-ghai.github.io/csb-mfr2y/static/js/runtime-main.8641a22e.js.map",
+    "static/css/2.27175f2b.chunk.css": "https://anshika-ghai.github.io/csb-mfr2y/static/css/2.27175f2b.chunk.css",
+    "static/js/2.c71312d1.chunk.js": "https://anshika-ghai.github.io/csb-mfr2y/static/js/2.c71312d1.chunk.js",
+    "static/js/2.c71312d1.chunk.js.map": "https://anshika-ghai.github.io/csb-mfr2y/static/js/2.c71312d1.chunk.js.map",
+    "index.html": "https://anshika-ghai.github.io/csb-mfr2y/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "https://anshika-ghai.github.io/csb-mfr2y/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.eed3dfe1.chunk.css.map": "https://anshika-ghai.github.io/csb-mfr2y/static/css/main.eed3dfe1.chunk.css.map",
+    "static/js/2.c71312d1.chunk.js.LICENSE.txt": "https://anshika-ghai.github.io/csb-mfr2y/static/js/2.c71312d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8641a22e.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.c71312d1.chunk.js",
+    "static/css/main.eed3dfe1.chunk.css",
+    "static/js/main.3b55b739.chunk.js"
+  ]
+}

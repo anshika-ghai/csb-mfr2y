@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAAA,mBACE,qBAAyB,CACzB,UACF,CAEA,WACE,iBAAkB,CAClB,QAAS,CACT,YACF","file":"main.eed3dfe1.chunk.css","sourcesContent":[".muicontainer-root {\r\n  background-color: #999999;\r\n  color: white;\r\n}\r\n\r\n.text-data {\r\n  position: relative;\r\n  left: 64%;\r\n  bottom: 500px;\r\n}\r\n"]}
